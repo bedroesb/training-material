@@ -33,7 +33,7 @@ requirements:
 
 
 tags:
-  - covid19
+  - ENA
 contributors:
 - roncoronimiguel
 - bedroesb
